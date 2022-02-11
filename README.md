@@ -1,13 +1,11 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - treinamento gratuito
->  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - 7 a 13 de março
+>  TREINAMENTO GRATUITO
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
 [![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
-
-### AVISO: As aulas ficarão disponíveis somente até domingo às 23h59
 
 ### AVISO: Instruções sobre certificado [aqui](https://github.com/devsuperior/sds-dsmovie/tree/main/_certificado)
 
@@ -20,7 +18,7 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/NaJ6K2fWKp)
+- [Discord da Semana Spring React](https://discord.gg/MkCbPT9z2u)
 
 
 ## Conteúdos de preparação
